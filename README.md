@@ -12,11 +12,11 @@ User location tracking 📍\
 Wayfinding arrows 🧭\
 Getting Started 🚀\
 
-To get started with this application, you will need to have the following:\
+# To get started with this application, you will need to have the following:
 
 A Flutter development environment 💻\
 A device with ARCore or ARKit installed 📱\
-Once you have the required software, you can clone this repository and run the application.\
+Once you have the required software, you can clone this repository and run the application.
 
 # Usage 🚶‍♂️
 To use this application, simply point your phone at the floor 👣. The application will display arrows on the floor 🛣 that show the user which way to go ➡️. You can also use the application to view indoor maps 🗺️.
