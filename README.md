@@ -1,16 +1,28 @@
-# eventpod
+# EventPOD
 
-A new Flutter project.
+# Indoor Navigation Application 🏢
+This is an indoor navigation application that uses AR and Bitmaps 📱. It allows users to navigate through a building by pointing their phone at the floor 👣. The application will display arrows on the floor 🛣 that show the user which way to go ➡️.
 
-## Getting Started
+# Features ✨
 
-This project is a starting point for a Flutter application.
+AR-based navigation 🕶️\
+Bitmap-based navigation 🖼️\
+Indoor maps 🗺️\
+User location tracking 📍\
+Wayfinding arrows 🧭\
+Getting Started 🚀\
 
-A few resources to get you started if this is your first Flutter project:
+To get started with this application, you will need to have the following:\
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A Flutter development environment 💻\
+A device with ARCore or ARKit installed 📱\
+Once you have the required software, you can clone this repository and run the application.\
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Usage 🚶‍♂️
+To use this application, simply point your phone at the floor 👣. The application will display arrows on the floor 🛣 that show the user which way to go ➡️. You can also use the application to view indoor maps 🗺️.
+
+# Contributing 🤝
+If you would like to contribute to this project, please feel free to fork the repository and submit pull requests.
+
+# License 📄
+This project is licensed under the MIT License.
